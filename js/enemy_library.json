@@ -41,7 +41,7 @@ enemy_library = {
         flavortext: "Hey, what do you think you're doing, trying to look at enemies that don't exist? Get outta here!"
     },
 
-    e01: {
+  e01: {
         id: "e01",
         next_enemy_id: "e02",
         name: "Lirili Lirila",
@@ -65,7 +65,7 @@ enemy_library = {
             "...lirili."
         ]
     },
-
+ 
     e02: {
         id: "e02",
         next_enemy_id: "e03",
@@ -96,7 +96,7 @@ enemy_library = {
             "Trip... trip... TROPI!"
         ]
     },
-
+ 
     e03: {
         id: "e03",
         next_enemy_id: "e04",
@@ -125,7 +125,7 @@ enemy_library = {
             "Tralalalaaaaa~"
         ]
     },
-
+ 
     e04: {
         id: "e04",
         next_enemy_id: "e05",
@@ -154,7 +154,7 @@ enemy_library = {
             "Frulla frulla frulla~"
         ]
     },
-
+ 
     e05: {
         id: "e05",
         next_enemy_id: "e01",
