@@ -1,0 +1,20 @@
+travel_text = {
+
+    "0": {
+        name: "Tutorial: Easy Reader",
+        description: "New to the game? Learn to play against a few easy enemies before moving on to a more difficult chapter.",
+    },
+
+    "1": {
+        name: "Chapter 1: The Italian Brainrot Invasion",
+        description: "Lex the bookworm was quietly reading when a portal ripped open and out tumbled the most chaotic creatures imaginable — straight from the Italian Brainrot dimension. Seven of them. And they all want a fight.",
+        lex_pos: [90, 210]
+    },
+
+    "2": {
+        name: "Chapter 2: Coming Soon...",
+        description: "More chaos is on the way. Stay tuned!",
+        lex_pos: [120, 330]
+    }
+
+}
